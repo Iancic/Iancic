@@ -1,5 +1,5 @@
 
-My name is David Iancic, I am a C++ game developer with a passion for custom rendering solutions and game engines. Currently specializing in graphics and shader programming, working with low-level API's like **_DirectX 12_** and **_OpenGL_**, while also having past experience creating games using both **_Unity_** and **_Unreal Engine 5_**.
+My name is David Iancic, I am a C++ game developer with a passion for custom rendering solutions and game engines. Currently specializing in graphics and shader programming, working with low-level API's like **_Vulkan_** and **_OpenGL_**, while also having past experience creating games using both **_Unity_** and **_Unreal Engine 5_**.
 
 ### **_Studying At_**: 
 Breda University Of Applied Sciences
