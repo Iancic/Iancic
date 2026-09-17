@@ -1,15 +1,19 @@
 # Hi, I'm David Iancic 👋
 
-🎮 I am a C++ graphics programmer with a passion for low-level rendering and custom game engines. I have experience with DirectX 12, OpenGL, and PlayStation 5, and I have also developed games in Unreal Engine 5 and Unity.
+I am a C++ graphics programmer with a passion for low-level rendering and custom game engines. I have experience with DirectX 12, OpenGL, and PlayStation 5, and I have also developed games in Unreal Engine 5 and Unity.
 
-🎓 Studying at **Breda University of Applied Sciences**
+<p align="center">
+  🎓 Studying at <b>Breda University of Applied Sciences</b>
+</p>
 
-🔍 Looking for a **graphics programming** or **C++ software engineering** internship, available from **summer 2027** onward.
+<p align="center">
+  🔍 Looking for a <b>graphics programming</b> or <b>C++ software engineering</b> internship, available from <b>summer 2027</b> onward.
+</p>
 
-## 🛠️ Skills
+## Skills
 
-**💻 Programming Languages:** C++, C, Rust
+**Programming Languages:** C++, C, Rust
 
-**🖼️ Graphics APIs & Platforms:** DirectX 12, OpenGL, PlayStation 5
+**Graphics APIs & Platforms:** DirectX 12, OpenGL, PlayStation 5
 
-**🧰 Tooling:** Git, Perforce, PIX, Razor, RenderDoc, Superluminal, Nsight Graphics
+**Tooling:** Git, Perforce, PIX, Razor, RenderDoc, Superluminal, Nsight Graphics
