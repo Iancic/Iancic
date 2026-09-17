@@ -11,7 +11,7 @@ I am a C++ graphics programmer with a passion for low-level rendering and custom
 
 **Graphics APIs & Platforms:** DirectX 12, OpenGL, PlayStation 5
 
----
+#
 
 <p align="center">
   🎓 Studying at <b>Breda University of Applied Sciences</b>
