@@ -6,8 +6,6 @@
 
 🔍 Looking for a **graphics programming** or **C++ software engineering** internship, available from **summer 2027** onward.
 
----
-
 ## 🛠️ Skills
 
 **💻 Programming Languages:** C++, C, Rust
