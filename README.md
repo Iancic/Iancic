@@ -21,5 +21,5 @@ I am a graphics programmer with a passion for low-level rendering and custom gam
 </p>
 
 <p align="center">
-[Portfolio](https://david.iancic.ro)
+Check my portfolio at: https://david.iancic.ro
 </p>
