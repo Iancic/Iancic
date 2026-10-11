@@ -17,9 +17,5 @@ I am a graphics programmer with a passion for low-level rendering and custom gam
 </p>
 
 <p align="center">
-  🔍 Looking for a <b>graphics programming</b> or <b>C++ software engineering</b> internship, available from <b>summer 2027</b> onward.
-</p>
-
-<p align="center">
 Check my portfolio at: https://david.iancic.ro
 </p>
