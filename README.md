@@ -2,15 +2,11 @@
 
 I am a graphics programmer with a passion for low-level rendering and custom game engines. I have experience with DirectX 12, PlayStation 5, OpenGL and I developed games in both Unreal Engine 5 and Unity.
 
-# Skills
-
 **Programming Languages:** C++, C, Rust
 
 **Tooling:** Git, Perforce, PIX, Razor, RenderDoc, Superluminal, Nsight Graphics
 
 **Graphics APIs & Platforms:** DirectX 12, OpenGL, PlayStation 5
-
-#
 
 <p align="center">
   🎓 Studying at <b>Breda University of Applied Sciences</b>
