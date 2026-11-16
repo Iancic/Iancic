@@ -1,5 +1,5 @@
 <p align="center">
-  I am a graphics programmer with a passion for C++, graphics programming, rendering and custom game engines.</b>
+  I am a graphics programmer with a passion for C++, rendering and custom game engines.</b>
 </p>
 
 <p align="center">
